@@ -1,4 +1,4 @@
-package hws.api.model;
+package ru.maza.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

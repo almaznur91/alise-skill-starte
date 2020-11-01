@@ -1,4 +1,4 @@
-package hws.api.system;
+package ru.maza.system;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;

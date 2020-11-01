@@ -1,4 +1,4 @@
-package hws.api.model;
+package ru.maza.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.AllArgsConstructor;

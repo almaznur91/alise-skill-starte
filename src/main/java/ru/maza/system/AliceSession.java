@@ -1,4 +1,4 @@
-package hws.api.system;
+package ru.maza.system;
 
 import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;

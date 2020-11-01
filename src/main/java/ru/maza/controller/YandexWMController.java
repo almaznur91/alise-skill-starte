@@ -1,4 +1,4 @@
-package hws.api.controller;
+package ru.maza.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

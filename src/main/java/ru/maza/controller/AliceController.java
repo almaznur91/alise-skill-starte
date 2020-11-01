@@ -1,8 +1,8 @@
-package hws.api.controller;
+package ru.maza.controller;
 
-import hws.api.model.AliceMessageIn;
-import hws.api.model.AliceMessageOut;
-import hws.api.service.AliceSkillMessageListener;
+import ru.maza.model.AliceMessageIn;
+import ru.maza.model.AliceMessageOut;
+import ru.maza.service.AliceSkillMessageListener;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.*;

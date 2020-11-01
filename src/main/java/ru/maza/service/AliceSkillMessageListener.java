@@ -1,7 +1,7 @@
-package hws.api.service;
+package ru.maza.service;
 
-import hws.api.model.AliceMessageIn;
-import hws.api.model.AliceMessageOut;
+import ru.maza.model.AliceMessageIn;
+import ru.maza.model.AliceMessageOut;
 
 public interface AliceSkillMessageListener {
 

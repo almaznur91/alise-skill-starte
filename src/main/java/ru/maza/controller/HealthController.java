@@ -1,7 +1,7 @@
-package hws.api.controller;
+package ru.maza.controller;
 
-import hws.api.system.AliceSession;
-import hws.api.system.State;
+import ru.maza.system.AliceSession;
+import ru.maza.system.State;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 import lombok.RequiredArgsConstructor;

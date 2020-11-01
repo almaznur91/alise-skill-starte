@@ -1,11 +1,11 @@
-package hws.api.service.impl;
+package ru.maza.service.impl;
 
-import hws.api.model.AliceMessageIn;
-import hws.api.model.AliceMessageOut;
-import hws.api.model.AliceResponse;
-import hws.api.service.AliceSkillMessageListener;
-import hws.api.system.AliceSession;
-import hws.api.system.State;
+import ru.maza.model.AliceMessageIn;
+import ru.maza.model.AliceMessageOut;
+import ru.maza.model.AliceResponse;
+import ru.maza.service.AliceSkillMessageListener;
+import ru.maza.system.AliceSession;
+import ru.maza.system.State;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
